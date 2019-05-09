@@ -11,7 +11,7 @@ private:
 	float height;
 	int age;
 public:
-	Tree(string type);
+	Tree(string typeOfTree);
 	string getType();
 	
 	float getHeight();
